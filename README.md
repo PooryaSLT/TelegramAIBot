@@ -29,7 +29,7 @@ This Telegram bot leverages the power of various AI models to perform tasks like
 1. **Install required Python libraries:**
 
 ```bash
-pip install pyrogram==2.0.106 replicate asyncio requests
+pip install kurigram replicate asyncio requests
 ```
 
 2. **Obtain API tokens:**  
